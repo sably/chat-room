@@ -1,10 +1,10 @@
-# Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023:
+# Full Stack chat-room with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023:
 
 Features:
-- one-on-one conversation
-- create channels (text/ voice/ video) 
-- making video-call
-- making voice-call
+- ✔one-on-one conversation
+- ✔create channels (text/ voice/ video) 
+- ✔making video-call
+- ✔making voice-call
 - db schema using Prisma with Planetscale
  - websocket useing socket.io
 - Tailwind design
@@ -21,8 +21,15 @@ Features:
 - How to write POST, DELETE and PATCH routes in route handlers (app/api)
 - How to fetch data in server react components by directly accessing the database (WITHOUT API! like Magic!)
 
+App demo 👉:  [open](https://chat-room-production-cef3.up.railway.app)
 
-## Getting Started
+
+
+### Cloning the repository
+
+```shell
+git clone https://github.com/sably/next13-airbnb-clone.git
+```
 
 First, run the development server:
 
@@ -35,17 +42,3 @@ pnpm dev
 ```
 
 
-
-
-
-App demo 👇:
-
-- [open](https://chat-room-production-cef3.up.railway.app)
-
-
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
