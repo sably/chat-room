@@ -1,4 +1,4 @@
-# Full Stack chat-room with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023:
+# Full Stack chat-room with Next.js 13 App Router: React, Tailwind, Prisma, clerk, Planetscale, Livekit:
 
 Features:
 - ✔one-on-one conversation
